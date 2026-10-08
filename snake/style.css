@@ -1,13 +1,13 @@
 body{
     margin: 0;
-    background-color: #000;
-    color: #000;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f3f4;
+    color: #a0104c;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
 
 canvas{
-    background-color: #000;
+    background-color: #ffc2e3;
     border: 3px solid #a0104c;
     margin-top: 16px;
 }

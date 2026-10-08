@@ -1,0 +1,18 @@
+PLAYTEST
+ 
+Jogador 1:
+
+"O segundo mapa é dificil"
+ 
+Jogador 2:
+
+"O Obstaculo ta muito perto um do outro"
+ 
+Terceiro comentário:
+
+"A cor da maçã ta muito escura"
+ 
+Alteração realizada após o Playtest:
+
+Alteramos a cor da maçã.
+ 
